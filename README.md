@@ -1,1 +1,1 @@
-# JavaEEWeBApp2
+# JavaEEWebApp
